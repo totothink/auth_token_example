@@ -1,0 +1,21 @@
+== Token身份验证示例
+
+  本项目是机遇Token身份验证的实验项目，采用knock。
+
+=== 使用
+
+  1. 准备环境
+```shell
+  bundle install
+```
+
+  2. 启动服务
+```shell
+  rails s
+```
+
+  3. 客户端测试
+```shell
+  ruby client_sample.rb
+```
+
