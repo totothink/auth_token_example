@@ -6,9 +6,9 @@
 
 step 1: 准备环境
 
-`sh
+```ruby
   bundle install
-`
+```
 
 step 2:启动服务
 
