@@ -4,17 +4,20 @@
 
 === 使用
 
-  1. 准备环境
+1. 准备环境
+
 ```shell
   bundle install
 ```
 
-  2. 启动服务
+2. 启动服务
+
 ```shell
   rails s
 ```
 
-  3. 客户端测试
+3. 客户端测试
+
 ```shell
   ruby client_sample.rb
 ```
